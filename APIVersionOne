@@ -3,7 +3,7 @@ info:
   version: 1.0.0
   title: Swagger Petstore
   license:
-    name: MIT
+    name: MIT Test
 #servers:
 #  - url: http://petstore.swagger.io/v1
 paths:
